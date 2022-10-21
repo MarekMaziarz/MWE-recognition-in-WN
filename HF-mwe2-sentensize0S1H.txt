@@ -1,0 +1,388 @@
+id	lemma	definition	class
+0	string length	scope, the maximum vibrating length of the strings to produce sound, and determines the range of tones that string is capable of producing under a given tension	0
+1	jest at	mock, subject to laughter or ridicule	0
+2	take back	disown, take back what one has said	1
+3	give the bounce	separate, terminate a relationship abruptly	0
+4	confine to	decrease, restrict or confine within limits	0
+5	back up	confirm, establish as valid or genuine	1
+6	brace up	strengthen, make secure underneath	1
+7	ease off	change, reduce pressure or intensity	1
+8	Jewish calendar month	calendar month, a month in the Jewish calendar	0
+9	Feast of Weeks	Jewish holy day, (Judaism) Jewish holy day celebrated on the sixth of Sivan to celebrate Moses receiving the Ten Commandments	1
+10	Annunciation Day	quarter day, a festival commemorating the announcement of the Incarnation by the angel Gabriel to the Virgin Mary; a quarter day in England, Wales, and Ireland	1
+11	break of day	hour, the first light of day	1
+12	lunch period	mealtime, the customary or habitual hour for eating lunch	1
+13	twenty-four hour period	time unit, time for Earth to make a complete rotation on its axis	0
+14	vitamin A	fat-soluble vitamin, any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes	1
+15	Gram's solution	solution, a solution used in staining bacteria by Gram's method; consists of one part iodine and two parts potassium iodide and 300 parts water	1
+16	podsol soil	soil, a soil that develops in temperate to cold moist climates under coniferous or heath vegetation; an organic mat over a grey leached layer	0
+17	oxidation-reduction indicator	indicator, an indicator that shows a reversible color change between oxidized and reduced forms	0
+18	silk cotton	plant fiber, a plant fiber from the kapok tree; used for stuffing and insulation	1
+19	gum arabic	gum, gum from an acacia tree; used as a thickener (especially in candies and pharmaceuticals)	1
+20	burnt sienna	sienna, a reddish-brown pigment produced by roasting sienna	1
+21	nonspecific urethritis	urethritis, inflammation of the urethra of unknown cause	1
+22	multiple neuritis	neuritis, inflammation of many or all of the peripheral nerves (as in leprosy)	1
+23	tic douloureux	neuralgia, intense paroxysmal neuralgia along the trigeminal nerve	1
+24	stinking smut	smut, disease of wheat characterized by replacement of the grains with greasy masses of smelly smut spores	1
+25	toe crack	sand crack, a crack on the forepart of a horse's hindfoot	1
+26	Kernig's sign	symptom, symptom of meningitis; patient cannot extend the leg at the knee when the thigh is flexed because of stiffness in the hamstrings	1
+27	splenic fever	zoonosis, a highly infectious animal disease (especially cattle and sheep); it can be transmitted to people	1
+28	abdominal actinomycosis	actinomycosis, a serious form of actinomycosis that affects the abdomen	0
+29	cane blight	blight, a disease affecting the canes of various bush fruits (e.g., raspberries or currants)	1
+30	Cooley's anaemia	thalassemia, a fatal form of homozygous thalassemia (inherited from both parents) in which there is no hemoglobin; skeletal deformations; heart and spleen and liver enlarged	1
+31	Still's disease	rheumatoid arthritis, a form of rheumatoid arthritis that affects children; large joints become inflamed and bone growth may be retarded	1
+32	genetic disease	disease, a disease or disorder that is inherited genetically	0
+33	ketosis-prone diabetes	diabetes mellitus, autoimmune disease, severe diabetes mellitus with an early onset; characterized by polyuria and excessive thirst and increased appetite and weight loss and episodic ketoacidosis; diet and insulin injections are required to control the disease	0
+34	coronary thrombosis	thrombosis, coronary heart disease, obstruction of blood flow in a coronary artery by a blood clot (thrombus)	1
+35	cerebral palsy	brain disorder, a loss or deficiency of motor control with involuntary spasms caused by permanent brain damage present at birth	1
+36	endemic disease	disease, a disease that is constantly present to a greater or lesser degree in people of a certain class or in people living in a particular location	0
+37	suspended animation	physical condition, a temporary cessation of vital functions with loss of consciousness resembling death; usually resulting from asphyxia	1
+38	Sturm und Drang	disorder, a state of violent disturbance and disorder (as in politics or social conditions generally)	1
+39	state of affairs	state, the general state of things; the combination of circumstances at a given time	1
+40	past perfect	perfective, a perfective tense used to express action completed in the past	1
+41	exponential expression	formula, a mathematical expression consisting of a constant (especially e) raised to some power	0
+42	Iranian rial	Iranian monetary unit, the basic unit of money in Iran	0
+43	Syrian monetary unit	monetary unit, monetary unit in Syria	0
+44	Norwegian krone	Norwegian monetary unit, the basic unit of money in Norway	0
+45	acid value	definite quantity, (chemistry) the amount of free acid present in fat as measured by the milligrams of potassium hydroxide needed to neutralize it	1
+46	stock-purchase warrant	security, a type of security issued by a corporation (usually together with a bond or preferred stock) that gives the holder the right to purchase a certain amount of common stock at a stated price	1
+47	accounts payable	liabilities, a debtor's accounts of money he owes; normally arise from the purchase of products or services	1
+48	silver dollar	dollar, a dollar made of silver	1
+49	Totten trust	trust, a savings account deposited by someone who makes themselves the trustee for a beneficiary and who controls it during their lifetime; afterward the balance is payable to the previously named beneficiary	1
+50	high-yield bond	bond, a (speculative) bond with a credit rating of BB or lower; issued for leveraged buyouts and other takeovers by companies with questionable credit	0
+51	travel bargain	bargain, a bargain rate for travellers on commercial routes (usually air routes)	0
+52	Mexican swamp cypress	cypress, cypress of river valleys of Mexican highlands	0
+53	Sierra redwood	sequoia, extremely lofty evergreen of southern end of western foothills of Sierra Nevada in California; largest living organism	0
+54	red juniper	pencil cedar, small juniper found east of Rocky Mountains having a conic crown, brown bark that peels in shreds, and small sharp needles	1
+55	electromagnetic interaction	interaction, an interaction between charged elementary particles that is intermediate in strength between the strong and weak interactions; mediated by photons	1
+56	brain death	death, death when respiration and other reflexes are absent; consciousness is gone; organs can be removed for transplantation before the heartbeat stops	1
+57	greenhouse warming	atmospheric phenomenon, warming that results when solar radiation is trapped by the atmosphere; caused by atmospheric gases that allow sunshine to pass through but absorb heat that is radiated back from the warmed surface of the earth	1
+58	switchboard operator	operator, someone who helps callers get the person they are calling	1
+59	radio operator	operator, someone who operates a radio transmitter	1
+60	Graeco-Roman deity	deity, a deity of classical mythology	0
+61	territorial waters	body of water, the waters surrounding a nation and its territories over which that nation exercises sovereign jurisdiction	1
+62	cirrostratus cloud	cloud, a thin uniform layer of hazy cloud at high altitude	0
+63	cow chip	droppings, a piece of dried bovine dung	1
+64	ski resort	resort, a resort with lodging and facilities for skiing	1
+65	home port	port, the port from which a ship originates of where it is registered	1
+66	lake poets	artistic movement, school, English poets at the beginning of the 19th century who lived in the Lake District and were inspired by it	1
+67	schola cantorum	preparatory school, a school that is part of a cathedral or monastery where boys with singing ability can receive a general education	1
+68	revival meeting	rally, an evangelistic meeting intended to reawaken interest in religion	1
+69	international organization	alliance, an international alliance involving many different countries	0
+70	US Fish and Wildlife Service	agency, an agency in the Department of the Interior that conserves and protects fish and wildlife and their habitats; assesses the environmental impact of pesticides and nuclear power site and hydroelectric dams and thermal pollution	1
+71	department of psychology	academic department, the academic department responsible for teaching and research in psychology	0
+72	department of computer science	academic department, the academic department responsible for teaching and research in computer science	0
+73	Amish sect	sect, an orthodox Anabaptist sect separated from the Mennonites in late 17th century; settled chiefly in southeastern Pennsylvania	0
+74	Christian church	religion, one of the groups of Christians who have their own beliefs and forms of worship	0
+75	full house	poker hand, a poker hand with 3 of a kind and a pair	1
+76	elixir of life	elixir, a hypothetical substance believed to maintain life indefinitely; once sought by alchemists	1
+77	whipping cream	cream, cream that has enough butterfat (30% to 36%) to be whipped	1
+78	cumin seed	edible seed, aromatic seeds of the cumin herb of the carrot family	1
+79	rainbow trout	trout, flesh of Pacific trout that migrate from salt to fresh water	1
+80	curly endive	salad green, crisp spiky leaves with somewhat bitter taste	1
+81	crookneck squash	yellow squash, yellow squash with a thin curved neck and somewhat warty skin	1
+82	onion bread	bread, bread containing finely minced onions	0
+83	Nesselrode pudding	pudding, a rich frozen pudding made of chopped chestnuts and maraschino cherries and candied fruits and liqueur or rum	1
+84	carob bar	candy, a bar of candy made with carob powder	0
+85	side dish	dish, a dish that is served with, but is subordinate to, a main course	1
+86	whole wheat flour	wheat flour, flour made by grinding the entire wheat berry including the bran; (`whole meal flour' is British usage)	1
+87	puppy love	love, temporary love of an adolescent	1
+88	marriage offer	offer, an offer of marriage	0
+89	press conference	conference, a conference at which press and tv reporters ask questions of a politician or other celebrity	1
+90	Modern English	English, English since about 1450	1
+91	Khoisan language	natural language, a family of languages spoken in southern Africa	0
+92	maternal language	natural language, one's native language; the language learned by children and passed from one generation to the next	0
+93	telegraphic signal	signal, a signal transmitted by telegraphy	0
+94	res gestae	rule of evidence, rule of evidence that covers words that are so closely associated with an occurrence that the words are considered part of the occurrence and as such their report does not violate the hearsay rule	1
+95	Croix de Guerre	decoration, a French military decoration for gallantry	1
+96	polyphonic prose	prose, a rhythmical prose employing the poetic devices of alliteration and assonance	1
+97	vocative case	oblique, the case (in some inflected languages) used when the referent of the noun is being addressed	1
+98	style sheet	sheet, a sheet summarizing the editorial conventions to be followed in preparing text for publication	1
+99	human ecology	sociology, the branch of sociology that studies the characteristics of human populations	1
+100	mirror symmetry	conservation, (physics) parity is conserved in a universe in which the laws of physics are the same in a right-handed system of coordinates as in a left-handed system	1
+101	comparative anatomy	anatomy, the study of anatomical features of animals of different species	0
+102	pyramid scheme	scheme, a fraudulent scheme in which people are recruited to make payments to the person who recruited them while expecting to receive payments from the persons they recruit; when the number of new recruits fails to sustain the hierarchical payment structure the scheme collapses with most of the participants losing the money they put in	1
+103	Ohm's law	law, electric current is directly proportional to voltage and inversely proportional to resistance; I = E/R	1
+104	cross product	vector, a vector that is the product of two other vectors	1
+105	canalis cervicis uteri	duct, a spindle-shaped canal extending from the uterus to the vagina	0
+106	postcentral gyrus	central gyrus, the convolution of parietal lobe that is bounded in front by the central sulcus	1
+107	somatic chromosome	chromosome, any chromosome that is not a sex chromosome; appear in pairs in body cells but as single chromosomes in spermatozoa	0
+108	parietal pericardium	serous membrane, the tough outermost layer of the pericardium that is attached to the diaphragm and the sternum	1
+109	cystic vein	vein, vein that drains the gallbladder	0
+110	ingrown hair	hair, a hair that does not emerge from the follicle but remains embedded in the skin (usually causing inflammation)	0
+111	fifth wheel	redundancy, someone or something that is unwanted and unneeded	1
+112	frequency response	sensitivity, (electronics) a curve representing the output-to-input ratio of a transducer as a function of frequency	1
+113	wiper blade	mechanical device, a mechanical device that cleans the windshield	0
+114	voltaic battery	battery, battery consisting of a number of voltaic cells arranged in series or parallel	1
+115	trawl line	fishing line, a long fishing line with many shorter lines and hooks attached to it (usually suspended between buoys)	1
+116	torpedo boat	warship, small high-speed warship designed for torpedo attacks in coastal waters	1
+117	tip-top table	pedestal table, a pedestal table whose top is hinged so that it can be tilted to a vertical position	1
+118	thermoelectric thermometer	thermometer, a thermometer that uses thermoelectric current to measure temperature	1
+119	sulfa drug	antibacterial, antibacterial consisting of any of several synthetic organic compounds capable of inhibiting the growth of bacteria that require PABA	1
+120	spray paint	paint, paint applied with a spray gun	1
+121	shuttle bus	shuttle, shuttle consisting of a bus that travels between two points	1
+122	shoe bomb	explosive device, an explosive device concealed inside the heel and sole of a shoe	0
+123	coin bank	container, a container (usually with a slot in the top) for keeping money at home	0
+124	roller towel	towel, a towel with the ends sewn together, hung on a roller	1
+125	roach holder	pincer, metal tweezers used by marijuana smokers to hold a roach	1
+126	electrical relay	electrical device, electrical device such that current flowing through it in one circuit can switch on and off a current in a second circuit	0
+127	railroad flat	apartment, an apartment whose rooms are all in a line with doors between them	1
+128	pin wrench	wrench, a wrench that has a projecting pin that fits into a socket on the object to be turned	1
+129	ping-pong ball	ball, light hollow ball used in playing table tennis	1
+130	panty girdle	corset, a woman's undergarment that combines a girdle and panties	1
+131	Morris chair	armchair, an armchair with an adjustable back	1
+132	mental hospital	hospital, a hospital for mentally incompetent or unbalanced person	1
+133	barrier strip	junction, a junction unit for connecting 2 cables without the need for plugs	0
+134	jet engine	reaction-propulsion engine, a gas turbine produces a stream of hot gas that propels a jet plane by reaction propulsion	1
+135	computer hardware	component, (computer science) the mechanical, magnetic, electronic, and electrical components making up a computer system	1
+136	hair grease	toiletry, a toiletry for the hair	0
+137	gathered skirt	skirt, a skirt whose fabric is drawn together around the waist	0
+138	flight deck	deck, the upper deck of an aircraft carrier; used as a runway	1
+139	flashlight battery	dry battery, a small dry battery containing dry cells; used to power flashlights	0
+140	figure skate	ice skate, an ice skate worn for figure skating; has a slightly curved blade and a row of jagged points at the front of the blade	1
+141	fanjet engine	jet engine, a jet engine in which a fan driven by a turbine provides extra air to the burner and gives extra thrust	0
+142	electronic foetal monitor	monitor, an electronic monitor that monitors fetal heartbeat and the mother's uterine contractions during childbirth	0
+143	power meter	meter, a meter for measuring the amount of electric power used	0
+144	dish towel	towel, a towel for drying dishes	1
+145	divan bed	sofa, an armless couch; a seat by day and a bed by night	1
+146	curb roof	roof, a roof with two or more slopes on each side of the ridge	1
+147	dog collar	necklace, necklace that fits tightly around a woman's neck	1
+148	fowl run	yard, an enclosed yard for keeping poultry	0
+149	meat market	shop, a shop in which meat and poultry (and sometimes fish) are sold	1
+150	spurious wing	feather, tuft of small stiff feathers on the first digit of a bird's wing	1
+151	social work	welfare work, any of various services designed to aid the poor and aged and to increase the welfare of children	1
+152	electrodermal response	reaction, a change in the electrical properties of the skin in response to stress or anxiety; can be measured either by recording the electrical resistance of the skin or by recording weak currents generated by the body	0
+153	laser trabecular surgery	eye operation, eye surgery that makes many tiny laser burns in an area that will increase the drainage of aqueous humor	0
+154	pas seul	dancing, (ballet) a solo dance or dance figure	1
+155	Russian bank	solitaire, solitaire with two players using separate packs	1
+156	golf game	outdoor game, a game played on a large open course with 9 or 18 holes; the object is use as few strokes as possible in playing all the holes	1
+157	Fosbury flop	high jump, jumping over the bar backwards and head first	1
+158	crash dive	descent, a rapid descent by a submarine	1
+159	ocean trip	water travel, an act of traveling by water	0
+160	mercy killing	killing, the act of killing someone painlessly (especially someone suffering from an incurable illness)	1
+161	across the nation	extending throughout an entire nation	0
+162	magna cum laude	with high honor	1
+163	yack away	talk, talk incessantly and tiresomely	0
+164	pack together	wedge, make more compact by or as if by pressing	0
+165	phase in	introduce, introduce gradually	1
+166	toss off	write, write quickly	1
+167	mill about	move, move about in a confused manner	1
+168	pass across	pass, make a passage or journey from one place to another	0
+169	back down	retire, remove oneself from an obligation	1
+170	stay over	lodge, stay overnight	1
+171	area density	weight, The area density of a two-dimensional object is calculated as the mass per unit area. The SI derived unit is: kilogram per square metre	0
+172	free goods	commodity, a good that is not scarce, and therefore is available without limits	1
+173	Resurrectionist Congregation	order, an international Institute of Consecrated Life of men within the Roman Catholic Church, founded in 1836 by three men, Bogdan Jañski, Peter Semenenko and Hieronim Kajsiewicz in Paris on the heels of the Polish Great Emigration	0
+174	press sheet	size, a sheet as printed during a pressrun and before folding	1
+175	bit rate	pace, the number of bits that are conveyed or processed per unit of time	1
+176	financial economics	economics, A branch of economics that analyzes the use and distribution of resources in markets in which decisions are made under uncertainty	0
+177	bill of parcel	receipt, legal document, a shipping document that accompanies delivery packages; includes an itemized detail of the package contents and does not include customer pricing	0
+178	summer vacation	leisure, Summer vacation (also called summer holidays or summer break) is a vacation in the summertime between school years in which students and instructors are off school typically between 6 and 14 weeks, depending on the country and district	1
+179	laser gun	gun, a type of fictional directed-energy weapon, that emits a ray, typically visible, usually lethal if it hits a human target, often destructive if it hits mechanical objects, with properties and other effects unspecified or varying	1
+180	sociocultural evolutionism	sociological theory, the idea that human cultural change can be described as a Darwinian evolutionary process that is similar in key respects (but not identical) to biological/genetic evolution	0
+181	ex-post evaluation	evaluation, a type of summative evaluation of an initiative after it has been completed	0
+182	network analyzer	program, a computer program or a piece of computer hardware that can intercept and log traffic passing over a digital network or part of a network	0
+183	managerial economics	economics, application of the economic concepts and economic analysis to the problems of formulating rational managerial decisions	0
+184	portative organ	organ, A portative organ (portatif organ, portativ organ, or simply portative, portatif, or portativ) is a small pipe organ that consists of one rank of flue pipes, sometimes arranged in two rows, to be played while strapped to the performer at a right angle; it was commonly used in secular music from the twelfth to the sixteenth centuries	1
+185	courtroom drama	drama film, A legal drama or a courtroom drama is a subgenre of dramatic fiction which focuses on  law enforcement, crime, detective-based mystery solving, lawyer work or civil litigation	0
+186	mafia movie	crime film, a crime film dealing with organized crime, often specifically with the Mafia	0
+187	cosine curve	curve, a curve whose equation in Cartesian coordinates is of the form y = a cos x	1
+188	acoustic waveguide	waveguide, An acoustic waveguide is a physical structure for guiding sound waves	0
+189	back-pressure turbine	steam turbine, A steam turbine that exhausts steam at atmospheric pressures and above	0
+190	jazz fusion	jazz, a type of music that developed in the 1970s, combining jazz styles with rock music and using electronic instruments such as guitars and synthesizers	1
+191	constructed script	script, a new writing system specifically created by an individual or group, rather than having evolved as part of a language or culture like a natural script	0
+192	instrument transformer	transformer, a high accuracy electrical device used to isolate or transform voltage or current levels	0
+193	support vector machine	classifier, a classifier that constructs a hyperplane or set of hyperplanes in a high- or infinite-dimensional space, which can be used for classification, regression, or other tasks	1
+194	vascular prosthesis	prosthesis, an artificial blood vessel, used in a surgical procedure performed to redirect blood flow in a region of the body	0
+195	muzzle climb	rise, the upward movement of firearms or pneumatic arms front end (muzzle end of the barrel) after firing	0
+196	xi baryon	hyperon, either of two baryons that contain two strange quarks and have a neutral or negative charge; they have masses of 2,573 and 2,586 times that of the electron respectively	0
+197	Karlsbader Becherbitter	liqueur, an herbal bitters often drunk as a digestive aid; it is produced in Karlovy Vary, Czech Republic by the Jan Becher company	0
+198	cardinal numeral	numeral, (grammar) A word that expresses a countable quantity	1
+199	square pyramid	pyramid, a three-dimensional geometric figure with a square base and four triangular sides that connect at one point; a pyramid with a square base	0
+200	3D scanner	scanner, a device that analyzes a real-world object or environment to collect data on its shape and possibly its appearance (e.g. color)	0
+201	abasia trepidans	abasia, abasia due to trembling of the legs	0
+202	all-moving tail	tail, a fully movable aircraft stabilizer that serves the usual functions of longitudinal stability, control and stick force requirements otherwise performed by the separate fixed and movable parts of a conventional horizontal stabilizer	0
+203	alveolar consonant	consonant, a consonant articulated with the tip of the tongue near the gum ridge	0
+204	anti-glare filter	filter, A monitor filter is an accessory to the computer display to filter out the light reflected from the smooth glass surface of a CRT or flat screen display as well as the radiation emitted from CRT and LCD displays	0
+205	arterial blood	blood, blood found in arteries	0
+206	articulatio synovialis	joint, a joint so articulated as to move freely	0
+207	auditory communication	communication, communication that relies on hearing	0
+208	basal body temperature method of family planning	natural family planning, natural family planning in which the fertile period of the woman's menstrual cycle is inferred by noting the rise in basal body temperature that typically occurs with ovulation	0
+209	basketball equipment	sports equipment, sports equipment used in playing basketball	0
+210	bidet tap	water faucet, A tap that provides water for a bidet	0
+211	British people	nation, the people of Great Britain	0
+212	buffer country	country, a small neutral state between two rival powers	0
+213	bull spread	option, a bullish, vertical spread options strategy that is designed to profit from a moderate rise in the price of the underlying security	0
+214	BW defence	defense, defense against biological warfare	0
+215	click clack	pocketknife, a folding pocket knife with two handles counter-rotating around the tang such that, when closed, the blade is concealed within grooves in the handles	0
+216	coastal trading vessel	bottom, a shallow-hulled ship used for trade between locations on the same island or continent	0
+217	cocaine addiction	drug addiction, an addiction to cocaine	0
+218	cold medium	medium, a medium that usually, but not always, provides little involvement together with substantial stimulus; includes speech, television, cartoons	0
+219	concertina fold	fold, a continuous parallel folding in an accordion-like fashion, that is with folds alternatively made to the front and back in zig-zag folds	0
+220	contraceptive diaphragm	contraceptive, a contraceptive device consisting of a flexible dome-shaped cup made of rubber or plastic; it is filled with spermicide and fitted over the uterine cervix	0
+221	cordless iron	iron, An electrical handheld iron that uses a charger instead of a power cord; it is not plugged into a wall socket when in use	0
+222	court banner	company, Court banner is formed by troops of the King	0
+223	cuboid bone	bone, the cube shaped bone on the outer side of the tarsus	1
+224	data multiplexer	multiplexer, a multiplexer that permits two or more data sources to share a common transmission medium	0
+225	defense lawyers	collection, the defendant and his legal advisors collectively	0
+226	double-deck rail car	car, a type of rail car that has two levels of passenger accommodation, as opposed to one, increasing passenger capacity	0
+227	Earth's surface	layer, the outermost level of the land or sea	0
+228	electro-acoustic transducer	transducer, a transducer that converts electrical to acoustic energy or vice versa	0
+229	explode a bombshell	surprise, utter or do something surprising	0
+230	Freudian psychology	psychotherapy, the psychological theories of Sigmund Freud	0
+231	genitive case	oblique, the case expressing ownership	1
+232	hank panky	sexual intercourse, illicit sexual intercourse	1
+233	have a go at it	copulate, have sexual intercourse with	0
+234	home office	office, (usually plural) the office that serves as the administrative center of an enterprise	1
+235	hospital ward	block, block forming a division of a hospital (or a suite of rooms) shared by patients who need a similar kind of care	0
+236	hot cathode	cathode, a cathode electrode which is heated to make it emit electrons due to thermionic emission	1
+237	husband-wife privilege	privilege, neither spouse can divulge confidential communications from the other while they were married	0
+238	kidney pie	meat pie, like steak and kidney pie but without steak	1
+239	Latvian monetary unit	monetary unit, monetary unit in Latvia	0
+240	lower status	low status, the state of being inferior	0
+241	mandibular condyle	condyle, the condyle of the ramus of the mandible that articulates with the skull	0
+242	mathematical operation	calculation, (mathematics) calculation by mathematical methods	0
+243	menstrual blood	blood, flow of blood from the uterus; occurs at roughly monthly intervals during a woman's reproductive years	0
+244	nasal consonant	consonant, a consonant produced through the nose with the mouth closed	0
+245	peltate leaf	simple leaf, a shield-shaped leaf; as a nasturtium leaf	0
+246	performance capability	capability, the capability of a technological system to perform as intended	0
+247	pharyngeal consonant	consonant, a consonant articulated in the back of the mouth or throat	0
+248	physiological anatomy	anatomy, the study of anatomy in its relation to function	0
+249	plant part	natural object, any part of a plant or fungus	0
+250	Plato's Academy	academy, a school established by Plato in ancient Athens	0
+251	police van	van, van used by police to transport prisoners	0
+252	quadratic polynomial	polynomial, a polynomial of the second degree	0
+253	Quechuan language	Amerind, the language of the Quechua which was spoken by the Incas	0
+254	ragpicker's disease	anthrax, a form of anthrax infection acquired by inhalation of dust containing Bacillus anthracis; initial symptoms (chill and cough and dyspnea and rapid pulse) are followed by extreme cardiovascular collapse	0
+255	respiratory disorder	disease, a disease affecting the respiratory system	0
+256	Roman times	times, the time period during which Rome dominated Europe	0
+257	Rotary International	service club, a group of businessmen in a town organized as a service club and to promote world peace	1
+258	rotary motion	motion, the act of rotating as if on an axis	0
+259	self-propelled gun	self-propelled artillery, a form of self-propelled artillery, and in modern use is usually used to refer to artillery pieces such as howitzers	0
+260	slipskin grape	grape, a grape whose skin slips readily from the pulp	0
+261	spectrum analyzer	device, A spectrum analyzer measures the magnitude of an input signal versus frequency within the full frequency range of the instrument	1
+262	staff line	line, any of the 5 horizontal marks comprising a staff	0
+263	statin drug	medicine, a medicine that lowers blood cholesterol levels by inhibiting HMG-CoA reductase	0
+264	stereoscopic photograph	photograph, two photographs taken from slightly different angles that appear three-dimensional when viewed together	0
+265	stud finder	permanent magnet, a small permanent magnet in a metal container; when the magnet clicks against the container it indicates that the magnet is directly over an iron nail that holds the wallboard to a stud	1
+266	supraorbital torus	ridge, a ridge on the frontal bone above the eye socket	0
+267	teacher-student relation	academic relation, the academic relation between teachers and their students	0
+268	totalitation regime	government, a government that subordinates the individual to the state and strictly controls all aspects of life by coercive measures	0
+269	track ballast	ballast, a ballast that forms the trackbed upon which railway sleepers (UK) or railroad ties (US) are laid; packed between, below, and around the ties	0
+270	tunica conjunctiva bulbi	conjunctiva, the part of the conjunctiva covering the anterior face of the sclera and the surface epithelium of the cornea	0
+271	Tupi-Guarani language	Amerind, a family of South American Indian languages	0
+272	turnip bed	bed, a bed in which turnips are growing	0
+273	two-stroke engine	internal-combustion engine, a type of internal combustion engine which completes a power cycle with two strokes (up and down movements) of the piston during only one crankshaft revolution	0
+274	vena gluteus	vein, veins draining the gluteal muscles on either side of the body	0
+275	venae palpebrales	vein, veins of the eyelids	0
+276	White Tai	Tai, a branch of the Tai languages	0
+277	adhesive plaster	adhesive tape, adhesive tape used in dressing wounds	1
+278	aggregate demand	demand, In macroeconomics, the total demand for final goods and services in the economy at a given time and price level	1
+279	at the most	not more than	1
+280	barium enema	enema, enema in which a contrast medium (usually barium sulfate) is injected into the rectum and X-rays are taken to search for lesions	1
+281	bleach out	change, remove color from	1
+282	borough English	inheritance, a former English custom by which the youngest son inherited land to the exclusion of his older brothers	1
+283	bowed down	heavily burdened with work or cares	1
+284	break up	suffer, suffer a nervous breakdown	1
+285	broken wind	animal disease, a chronic emphysema of the horse that causes difficult expiration and heaving of the flanks	1
+286	call forwarding	telephone, lets you transfer your incoming calls to any telephone that you can dial direct	1
+287	check out	be verified or confirmed; pass inspection	1
+288	coach house	outbuilding, a small building for housing coaches and carriages and other vehicles	1
+289	color chart	chart, a chart displaying colors	1
+290	colour bar	ideological barrier, barrier preventing blacks from participating in various activities with whites	1
+291	conic section	plane figure, (geometry) a curve generated by the intersection of a plane and a circular cone	1
+292	course of study	information, an integrated course of academic studies	1
+293	crowd out	displace, press, force, or thrust out of a small space	1
+294	crown saw	saw, a saw having teeth around the edge of a hollow cylinder	1
+295	danse du ventre	stage dancing, a Middle Eastern dance in which the dancer makes sensuous movements of the hips and abdomen	1
+296	deed of trust	legal document, a written instrument legally conveying property to a trustee often used to secure an obligation such as a mortgage or promissory note	1
+297	Department of the Treasury	executive department, the federal department that collects revenue and administers federal finances; the Treasury Department was created in 1789	1
+298	departure lounge	lounge, lounge where passengers can await departure	1
+299	depreciation charge	charge, an amount periodically charged to expense or against revenue in compensation for depreciation of property	1
+300	Easter Sunday	Christian holy day, the day (in March or April) on which the festival of Easter is celebrated	1
+301	fast break	break, (basketball) a rapid dash to get a shot as soon as possible after taking possession of the ball	1
+302	felt-tipped pen	pen, a pen with a writing tip made of felt (trade name Magic Marker)	1
+303	flea bite	troublesomeness, a very minor inconvenience	1
+304	flight feather	feather, any of the larger wing or tail feathers of a bird	1
+305	Foggy Bottom	Department of State, United States Department of State, which is housed in a building in a low-lying area of Washington near the Potomac River	1
+306	general relativity	relativity, a generalization of special relativity to include gravity (based on the principle of equivalence)	1
+307	give the glad eye	look, look seductively at someone	1
+308	gold fever	fever, greed and the contagious excitement of a gold rush	1
+309	Gunter's chain	chain, a unit of length (22 yards)	1
+310	guy rope	brace, a cable, wire, or rope that is used to brace something (especially a tent)	1
+311	harmonic mean	mean, the mean of n numbers expressed as the reciprocal of the arithmetic mean of the reciprocals of the numbers	1
+312	harmonic motion	periodic motion, a periodic motion in which the displacement is either symmetrical about a point or is the sum of such motions	1
+313	head voice	register, the higher ranges of the voice in speaking or singing; the vibrations of sung notes are felt in the head	1
+314	hedge fund	investment company, a flexible investment company for a small number of large investors (usually the minimum investment is $1 million); can use high-risk techniques (not allowed for mutual funds) such as short-selling and heavy leveraging	1
+315	herpes genitalis	herpes simplex, venereal disease, an infection caused by herpes simplex virus type 2 (HSV-2) that is usually transmitted by sexual contact; marked by recurrent attacks of painful eruptions on the skin and mucous membranes of the genital area	1
+316	horse latitude	latitude, either of two belts or regions near 30 degrees north or 30 degrees south; characterized by calms and light-baffling winds	1
+317	hour hand	hand, the shorter hand of a clock that points to the hours	1
+318	Hubble's law	law, (astronomy) the generalization that the speed of recession of distant galaxies (the red shift) is proportional to their distance from the observer	1
+319	hush puppy	cornbread, deep-fried cornbread ball (southern)	1
+320	incremental cost	monetary value, the increase or decrease in costs as a result of one more or one less unit of output	1
+321	intervertebral disc	disk, a fibrocartilaginous disc serving as a cushion between all of the vertebrae of the spinal column (except between the first two)	1
+322	invisible balance	balance, the difference in value over a period of time of a country's imports and exports of services and payments of property incomes	1
+323	ironing board	board, narrow padded board on collapsible supports; used for ironing clothes	1
+324	J particle	meson, a neutral meson with a large mass	1
+325	joint resolution	resolution, a resolution passed by both houses of Congress which becomes legally binding when signed by the Chief Executive (or passed over the Chief Executive's veto)	1
+326	jumble sale	sale, a sale of donated articles	1
+327	kept up	kept in good condition	1
+328	last resort	expedient, an expedient adopted only in desperation	1
+329	latch on	grasp, take hold of or attach to	1
+330	leave alone	refrain, leave unchanged or undisturbed or refrain from taking	1
+331	let in	permit, allow participation in or the right to be part of; permit to exercise the rights, functions, and responsibilities of	1
+332	life preserver	rescue equipment, float, rescue equipment consisting of a buoyant belt or jacket to keep a person from drowning	1
+333	literary criticism	writing, a written evaluation of a work of literature	1
+334	live out	survive, live out one's life; live to the end	1
+335	long jump	field event, a competition that involves jumping as far as possible from a running start	1
+336	magnetic stripe	magnetic tape, a short strip of magnetic tape attached to a credit card or debit card; it contains data that will tell a reading device who you are and what your account number is, etc.	1
+337	martial art	self-defense, any of several Oriental arts of weaponless self-defense; usually practiced as a sport	1
+338	medical history	case history, the case history of a medical patient as recalled by the patient	1
+339	miniature golf	golf, a novelty version of golf played with golf balls and putters on a miniature course featuring many obstacles	1
+340	mother wit	sagacity, sound practical judgment	1
+341	news magazine	magazine, a magazine devoted to reports of current events; usually published weekly	1
+342	oat cell carcinoma	carcinoma, highly malignant carcinoma composed of small round or egg-shaped cells with little cytoplasm; lung cancers are frequently oat cell carcinomas	1
+343	operating room	hospital room, a room in a hospital equipped for the performance of surgical operations	1
+344	Paget's disease	osteitis, a disease of bone occurring in the middle aged and elderly; excessive bone destruction sometimes leading to bone pain and fractures and skeletal deformities	1
+345	pan gravy	juice, the seasoned but not thickened juices that drip from cooking meats; often a little water is added	1
+346	parental leave	leave, Parental leave or family leave is an employee benefit available in almost all countries that provides paid time off work to care for a child or make arrangements for the child's welfare	1
+347	pea soup	soup, a thick soup made of dried peas (usually made into a puree)	1
+348	pencil sharpener	sharpener, a rotary implement for sharpening the point on pencils	1
+349	periodic motion	movement, motion that recurs over and over and the period of time required for each recurrence remains the same	1
+350	phrase book	book, a book containing common expressions in a foreign language along with their translations	1
+351	plastic art	art, the arts of shaping or modeling; carving and sculpture	1
+352	pressure group	political unit, interest, an interest group that tries to influence legislators or bureaucrats to act in their favor, typically through lobbying	1
+353	quartz clock	clock, a clock that uses an electronic oscillator that is regulated by a quartz crystal to keep time	1
+354	race riot	riot, a riot caused by hatred for one another of members of different races in the same community	1
+355	real income	income, income of individuals or nations after adjusting for inflation	1
+356	rectus inferior	ocular muscle, the ocular muscle whose contraction turns the eyeball down and medially	1
+357	regional anesthesia	anesthesia, loss of sensation in a region of the body produced by application of an anesthetic agent to all the nerves supplying that region (as when an epidural anesthetic is administered to the pelvic region during childbirth)	1
+358	ruby spinel	spinel, a spinel used as a gemstone (usually dark red)	1
+359	sally out	depart, set out in a sudden, energetic or violent manner	1
+360	secular games	celebration, the centennial rites and games of ancient Rome that marked the commencement of a new generation (100 years representing the longest life in a generation); observances may have begun as early as the 5th century BC and lasted well into the Christian era	1
+361	sell out	discard, sell or get rid of all one's merchandise	1
+362	signal box	building, a building from which signals are sent to control the movements of railway trains	1
+363	signal-to-noise ratio	ratio, the ratio of signal intensity to noise intensity	1
+364	single quote	quotation mark, a single quotation mark	1
+365	sleeping car	passenger car, a passenger car that has berths for sleeping	1
+366	spoils system	system, the system of employing and promoting civil servants who are friends and supporters of the group in power	1
+367	spoon bread	cornbread, soft bread made of cornmeal and sometimes rice or hominy; must be served with a spoon (chiefly southern)	1
+368	squeak by	pass, escape	1
+369	squeeze out	displace, force out	1
+370	stand up	survive, resist or withstand wear, criticism, etc.	1
+371	stick to	persevere, keep to	1
+372	strike out	take away, remove from a list	1
+373	T-bar lift	surface lift, a surface lift where riders hold a bar and are pulled up the hill on their skis	1
+374	take back	take, regain possession of something	1
+375	take shape	become, develop into a distinctive entity	1
+376	terra incognita	knowledge domain, an unknown or unexplored field of knowledge	1
+377	thyroid gland	endocrine gland, located near the base of the neck	1
+378	title page	page, a page of a book displaying the title and author and publisher	1
+379	truck driver	driver, someone who drives a truck as an occupation	1
+380	waffle iron	kitchen appliance, a kitchen appliance for baking waffles; the appliance usually consists of two indented metal pans hinged together so that they create a pattern on the waffle	1
+381	waiting room	room, a room (as in a hotel or airport) with seating where people can wait	1
+382	watering place	resort area, a health resort near a spring or at the seaside	1
+383	watt second	work unit, a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second	1
+384	working class	class, a social class comprising those who do manual labor or work for wages	1
+385	writing paper	paper, paper material made into thin sheets that are sized to take ink; used for writing correspondence and manuscripts	1
+386	yard line	line, in football; line parallel to the goal lines indicating position on the field	1
