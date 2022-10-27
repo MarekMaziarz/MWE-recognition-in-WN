@@ -3,7 +3,7 @@ Data sets:
   * contains manually annotated sample of 387 word combinations from Princeton WordNet and enWordNet
   * licence: CC-BY 4.0
   * authors: Łukasz Grabowski, Marek Maziarz, Tadeusz Piotrowski, Ewa Rudnicka
-* PEWN-smaller-LaBSE.txt:
+* PEWN-smaller-LaBSE_ver4.txt:
   * contains automatically annotated word combinations in WordNet (excluding proper names and biological and chemistry terminology)
   * licence: CC-BY 4.0
   * authors: Łukasz Grabowski, Marek Maziarz, Tadeusz Piotrowski, Ewa Rudnicka
